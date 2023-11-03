@@ -1,0 +1,9 @@
+../Core/Src/main.c:79:5:main	8	static
+../Core/Src/main.c:138:6:SystemClock_Config	88	static
+../Core/Src/main.c:185:13:MX_I2C1_Init	8	static
+../Core/Src/main.c:219:13:MX_GPIO_Init	40	static
+../Core/Src/main.c:240:6:find_I2C_Address	8	static
+../Core/Src/main.c:252:6:ADXL345_Write	32	static
+../Core/Src/main.c:261:6:ADXL345_Init	8	static
+../Core/Src/main.c:281:9:ADXL345_Read	32	static
+../Core/Src/main.c:294:6:Error_Handler	4	static,ignoring_inline_asm
